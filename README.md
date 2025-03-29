@@ -1,6 +1,6 @@
 # [Desktop-Weather-Station](https://circuitdigest.com/microcontroller-projects/)
 
-![Main Image]()
+![Main Image](https://github.com/jobitjoseph/Desktop-Weather-Station/blob/ccabbe9faf04c1585b6047bbfd509baff6436843/Images/Title%20Image.png)
 
 
 ---
