@@ -9,7 +9,8 @@
 </p>
 
 <p>This project offers a practical way to build a clean and minimal weather station using an ESP32 microcontroller and an E-Ink display. The use of E-Ink ensures that the display remains readable even without constant power, making it a perfect fit for battery-powered desktop use. Once connected to Wi-Fi, the station fetches real-time weather data such as temperature, humidity, and current conditions using the OpenWeatherMap API. It also monitors indoor temperature and humidity with the help of a built-in sensor and adds to the data displayed on the screen. The device automatically updates itself at fixed intervals and enters deep sleep to conserve energy. Once assembled, it becomes a quiet and elegant companion on your desk—keeping you informed, without the distractions of a smartphone or computer screen.</p>
-The firmware part of this project builds upon the excellent work of [David Bird](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display)[Desktop-Weather-Station](https://circuitdigest.com/microcontroller-projects/). The code has been adapted from his original implementation.
+The firmware part of this project builds upon the excellent work of [David Bird](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display). The code has been adapted from his original implementation.
+[Desktop-Weather-Station](https://circuitdigest.com/microcontroller-projects/)
 
 
 
